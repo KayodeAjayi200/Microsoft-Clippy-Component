@@ -39,7 +39,7 @@ Building this Clippy component was a fun experiment that highlighted how a simpl
 ---
 
 ## 🚀 Getting Started
-*(Add setup steps here)*
+Import the managed or unmanaged solution into your environment and integrate it with your app.
 
 ## 🎥 Demo
 [*(Microsoft Clippy Power Apps Component)*](https://youtu.be/xG-NV-djaqg)
